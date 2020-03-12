@@ -87,7 +87,7 @@ body {
   text-decoration: none;
   padding-top: .125rem;
   font-size: 1.25rem;
-  font-family: Ewert, sans-serif;
+  font-family: "Permanent Marker", sans-serif;
   background-color: transparent;
   z-index: 101;
   animation-play-state: running;
@@ -177,6 +177,10 @@ body {
   z-index: 500;
 }
 
+.ascii-box {
+  width: 100%;
+}
+
 .ascii {
   display: flex;
   width: 100%;
@@ -196,8 +200,8 @@ body {
 
 @media only screen and (min-width: 25em) {
   .crazy:hover {
-    padding-top: 1.1rem;
-    font-size: 1.125rem;
+    padding-top: 1rem;
+    font-size: 1.25rem;
     line-height: 0;
   }
 
@@ -241,8 +245,8 @@ body {
 
 @media only screen and (min-width: 38em) {
   .crazy:hover {
-    padding-top: 1.4rem;
-    font-size: 1.35rem;
+    padding-top: 1.25rem;
+    font-size: 1.6rem;
     line-height: 0;
   }
 
@@ -286,8 +290,8 @@ body {
 
 @media only screen and (min-width: 60em) {
   .crazy:hover {
-    padding-top: 1.475rem;
-    font-size: 1.45rem;
+    padding-top: 1.35rem;
+    font-size: 1.65rem;
     line-height: 0;
   }
 
@@ -331,8 +335,8 @@ body {
 
 @media only screen and (min-width: 90em) {
   .crazy:hover {
-    padding-top: 1.475rem;
-    font-size: 1.45rem;
+    padding-top: 1.35rem;
+    font-size: 1.65rem;
     line-height: 0;
   }
 
