@@ -127,20 +127,20 @@ body {
 @keyframes change-font {
   0%  {font-family: Sen, sans-serif;}
   25%  {font-family: Pacifico, sans-serif;
-        padding-top: .6rem;
-        line-height: 0rem;
-        font-size: 1.25rem;
-      }
+    padding-top: .6rem;
+    line-height: 0rem;
+    font-size: 1.25rem;
+  }
   50%  {font-family: "Homemade Apple", sans-serif;
-        padding-top: .6rem;
-        line-height: .5rem;
-        font-size: .875rem;
-      }
+    padding-top: .6rem;
+    line-height: .5rem;
+    font-size: .875rem;
+  }
   75%  {font-family: Damion, sans-serif;
-        padding-top: .6rem;
-        line-height: 0rem;
-        font-size: 1.5rem;
-      }
+    padding-top: .6rem;
+    line-height: 0rem;
+    font-size: 1.5rem;
+  }
   100%  {font-family: Sen, sans-serif;}
 
 }
@@ -209,20 +209,20 @@ body {
   @keyframes change-font {
     0%  {font-family: Sen, sans-serif;}
     25%  {font-family: Pacifico, sans-serif;
-          padding-top: .75rem;
-          line-height: 0rem;
-          font-size: 1.65rem;
-        }
+      padding-top: .75rem;
+      line-height: 0rem;
+      font-size: 1.65rem;
+    }
     50%  {font-family: "Homemade Apple", sans-serif;
-          padding-top: .85rem;
-          line-height: .5rem;
-          font-size: 1.25rem;
-        }
+      padding-top: .85rem;
+      line-height: .5rem;
+      font-size: 1.25rem;
+    }
     75%  {font-family: Damion, sans-serif;
-          padding-top: .775rem;
-          line-height: 0rem;
-          font-size: 2.125rem;
-        }
+      padding-top: .775rem;
+      line-height: 0rem;
+      font-size: 2.125rem;
+    }
     100%  {font-family: Sen, sans-serif;}
 
   }
@@ -255,20 +255,20 @@ body {
   @keyframes change-font {
     0%  {font-family: Sen, sans-serif;}
     25%  {font-family: Pacifico, sans-serif;
-          padding-top: 1rem;
-          line-height: 0rem;
-          font-size: 2.2rem;
-        }
+      padding-top: 1rem;
+      line-height: 0rem;
+      font-size: 2.2rem;
+    }
     50%  {font-family: "Homemade Apple", sans-serif;
-          padding-top: 1.175rem;
-          line-height: .5rem;
-          font-size: 1.665rem;
-        }
+      padding-top: 1.175rem;
+      line-height: .5rem;
+      font-size: 1.665rem;
+    }
     75%  {font-family: Damion, sans-serif;
-          padding-top: 1rem;
-          line-height: 0rem;
-          font-size: 2.83rem;
-        }
+      padding-top: 1rem;
+      line-height: 0rem;
+      font-size: 2.83rem;
+    }
     100%  {font-family: Sen, sans-serif;}
 
   }
@@ -301,20 +301,20 @@ body {
   @keyframes change-font {
     0%  {font-family: Sen, sans-serif;}
     25%  {font-family: Pacifico, sans-serif;
-          padding-top: 1.1rem;
-          line-height: 0rem;
-          font-size: 2.25rem;
-        }
+      padding-top: 1.1rem;
+      line-height: 0rem;
+      font-size: 2.25rem;
+    }
     50%  {font-family: "Homemade Apple", sans-serif;
-          padding-top: 1.25rem;
-          line-height: .5rem;
-          font-size: 1.75rem;
-        }
+      padding-top: 1.25rem;
+      line-height: .5rem;
+      font-size: 1.75rem;
+    }
     75%  {font-family: Damion, sans-serif;
-          padding-top: 1.05rem;
-          line-height: 0rem;
-          font-size: 2.9rem;
-        }
+      padding-top: 1.05rem;
+      line-height: 0rem;
+      font-size: 2.9rem;
+    }
     100%  {font-family: Sen, sans-serif;}
 
   }
@@ -347,20 +347,20 @@ body {
   @keyframes change-font {
     0%  {font-family: Sen, sans-serif;}
     25%  {font-family: Pacifico, sans-serif;
-          padding-top: 1.1rem;
-          line-height: 0rem;
-          font-size: 2.25rem;
-        }
+      padding-top: 1.1rem;
+      line-height: 0rem;
+      font-size: 2.25rem;
+    }
     50%  {font-family: "Homemade Apple", sans-serif;
-          padding-top: 1.25rem;
-          line-height: .5rem;
-          font-size: 1.75rem;
-        }
+      padding-top: 1.25rem;
+      line-height: .5rem;
+      font-size: 1.75rem;
+    }
     75%  {font-family: Damion, sans-serif;
-          padding-top: 1.05rem;
-          line-height: 0rem;
-          font-size: 2.9rem;
-        }
+      padding-top: 1.05rem;
+      line-height: 0rem;
+      font-size: 2.9rem;
+    }
     100%  {font-family: Sen, sans-serif;}
 
   }
