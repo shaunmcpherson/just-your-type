@@ -84,27 +84,33 @@ body {
 
 @keyframes flashing {
 
-  0% {color: black;
+  0% {
+    color: black;
     text-shadow: none;
   }
 
-  10% {color: red;
+  10% {
+    color: red;
     text-shadow: 0 0 5px red;
   }
 
-  20% {color: black;
+  20% {
+    color: black;
     text-shadow: none;
   }
 
-  30% {color: red;
+  30% {
+    color: red;
     text-shadow: 0 0 5px red;
   }
 
-  40% {color: black;
+  40% {
+    color: black;
     text-shadow: none;
   }
 
-  65% {color: red;
+  65% {
+    color: red;
     text-shadow: 0 0 5px red;
   }
 
@@ -256,7 +262,8 @@ body {
     }
 
     100% {
-      font-family: Sen, sans-serif;}
+      font-family: Sen, sans-serif;
+    }
 
   }
 
