@@ -242,7 +242,7 @@ body {
     }
 
     50% {
-      ont-family: "Homemade Apple", sans-serif;
+      font-family: "Homemade Apple", sans-serif;
       padding-top: .85rem;
       line-height: .5rem;
       font-size: 1.25rem;
