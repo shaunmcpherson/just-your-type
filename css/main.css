@@ -22,7 +22,7 @@ html {
 
 body {
   margin: 0;
-  padding: 2em;
+  padding: 0;
   height: 100%;
   display: flex;
   justify-content: center;
@@ -191,7 +191,7 @@ body {
   line-height: 1.4;
   font-family: 'Consolas','BitstreamVeraSansMono','CourierNew',Courier,monospace;
   font-size: 3px;
-  color: rgba(0, 255, 0, .2);
+  color: rgba(0, 128, 0, .2);
 }
 
 @media only screen and (min-width: 25em) {
