@@ -5,14 +5,7 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
-  text-size-adjust: 200%;
-
-  -moz-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  box-sizing: border-box;
   font-family: Sen, sans-serif;
-
   height: 100%;
 }
 
@@ -21,7 +14,6 @@ html {
 }
 
 body {
-  margin: 0;
   padding: 0;
   height: 100%;
   display: flex;
@@ -95,12 +87,18 @@ body {
 }
 
 @keyframes flashing {
-  0%  {color: black}
-  10%  {color: red}
-  20%  {color: black}
-  30%  {color: red}
-  40%  {color: black}
-  65%  {color: red}
+  0%  {color: black;
+      }
+  10%  {color: red;
+      }
+  20%  {color: black;
+      }
+  30%  {color: red;
+      }
+  40%  {color: black;
+      }
+  65%  {color: red;
+      }
 }
 
 .crazy:hover + .box1 {
@@ -195,7 +193,7 @@ body {
   white-space: pre;
   letter-spacing: 0;
   line-height: 1.4;
-  font-family: 'Consolas','BitstreamVeraSansMono','CourierNew',Courier,monospace;
+  font-family: "Consolas", "BitstreamVeraSansMono", "CourierNew", Courier, monospace;
   font-size: 3px;
   color: rgba(0, 128, 0, .2);
 }
