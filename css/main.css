@@ -188,7 +188,6 @@ body {
   color: green;
   text-decoration: none;
   text-transform: uppercase;
-  padding-top: 0rem;
   font-size: 1.5rem;
   font-family: "Bungee Shade", sans-serif;
   background-color: transparent;
@@ -268,7 +267,6 @@ body {
   }
 
   .do:hover {
-    padding-top: 0rem;
     font-size: 2.5rem;
   }
 
@@ -328,7 +326,6 @@ body {
   }
 
   .do:hover {
-    padding-top: 0rem;
     font-size: 2.7rem;
   }
 
@@ -388,7 +385,6 @@ body {
   }
 
   .do:hover {
-    padding-top: 0rem;
     font-size: 3rem;
   }
 
@@ -448,7 +444,6 @@ body {
   }
 
   .do:hover {
-    padding-top: 0rem;
     font-size: 3rem;
   }
 
