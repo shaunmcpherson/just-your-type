@@ -79,7 +79,8 @@ body {
   text-decoration-color: red;
   background-color: transparent;
   order: 2;
-  animation: flashing 3s infinite forwards paused step-end;
+  animation: flashing 3s infinite forwards step-end;
+  animation-play-state: paused;
 }
 
 .crazy:hover {
@@ -112,7 +113,8 @@ body {
   text-decoration-color: gold;
   order: 2;
   font-family: Sen, sans-serif;
-  animation: change-font 2.5s infinite forwards paused step-end;
+  animation: change-font 2.5s infinite forwards step-end;
+  animation-play-state: paused;
 }
 
 .change:hover {
